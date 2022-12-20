@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP4_Architecture_Logiciel.iml" filepath="$PROJECT_DIR$/.idea/TP4_Architecture_Logiciel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp4ArchetictureLogiciel/tp4ArchetictureLogiciel.iml" filepath="$PROJECT_DIR$/tp4ArchetictureLogiciel/tp4ArchetictureLogiciel.iml" />
+    </modules>
+  </component>
+</project>
